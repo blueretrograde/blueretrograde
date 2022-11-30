@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**blueretrograde/blueretrograde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/112112671/204852767-ccc010a5-40f2-4651-861d-2bbb79650302.png)
 
-Here are some ideas to get you started:
+
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
