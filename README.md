@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/112112671/204853933-4973c6ad-df1d-4fb5-8436-b922e05d735d.gif)
+
 
 
 <!--
