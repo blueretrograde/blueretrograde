@@ -7,7 +7,7 @@ I have recently made a career change into software developing.
 
 I have studied Theatre & Film and after uni I did an intership writing content for a travelling website. I really enjoyed it and wanted to explore more in web designing.
 
-I started my tech journey with _nology which included a full time 12 week-long training. I covered HTML, CSS, SCSS, JS, REACT and JAVA.
+I started my tech journey with _nology which included a 12 week-long, full time training. I covered HTML, CSS, SCSS, JS, REACT and JAVA.
 
 I got to work with a client-based project using React and followed Agile methodology for development process.
 
